@@ -1,5 +1,8 @@
 # qow
 
+![output](https://github.com/user-attachments/assets/b2cce027-a0eb-4781-b5f3-d5f772cd0c78)
+> Gif created with [marquee](https://github.com/qnton/marquee)
+
 **Natural language to CLI commands**
 
 I created this project because I sometimes forget terminal commands and don't want to switch through windows or open a browser to search for them. `qow` brings the exact command you need right into your CLI!
