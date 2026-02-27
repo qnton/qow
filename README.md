@@ -1,6 +1,7 @@
 # qow
 
-![qow](https://github.com/user-attachments/assets/0b589a18-f8c5-4847-be1c-340031815cfc)
+![output](https://github.com/user-attachments/assets/b2cce027-a0eb-4781-b5f3-d5f772cd0c78)
+> Gif created with [marquee](https://github.com/qnton/marquee)
 
 **Natural language to CLI commands**
 
